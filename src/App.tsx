@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <Button variant="primary">Primary</Button>
+        <Button variant="primary">secondary</Button>
         <p>
           Edit <code>src/App.tsx</code> and save to reload.
         </p>
